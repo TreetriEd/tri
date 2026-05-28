@@ -1,0 +1,6 @@
+{
+  "name": "NetSwitch",
+  "description": "โปรแกรมวิเคราะห์และจัดการปรับปรุงสัญญานอินเทอร์เน็ต Wi-Fi & Cellular อัจฉริยะ (Smart automatic Wi-Fi and Cellular signal optimize router rules with sandbox)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
